@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning everything I can  
 - 💞️ I’m looking to collaborate on futuristic projects
 - 📫 How to reach me ... somewhere over the rainbow
-- 
+
 
 <!---
 iyamwhoiyam/iyamwhoiyam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
